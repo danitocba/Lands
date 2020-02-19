@@ -71,7 +71,7 @@
                 <Label
                     Text="Olvido su contraseña?"
                     HorizontalOptions="Center"
-                    TextColor="Blue"
+                    TextColor="BlueViolet"
                     >
                 </Label>
 
